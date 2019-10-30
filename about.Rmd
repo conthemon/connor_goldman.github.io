@@ -1,0 +1,12 @@
+---
+title: "A Brief History"
+output: html_document
+---
+
+I am from a town just outside Atlanta, Georgia. 
+
+<img src = "photos/ga.jpg" style = "width: 75%">
+
+I attended Vanderbilt University in Nashville, Tennessee for my undergraduate degree.
+
+<img src = "photos/vandy.png" style = "width: 75%">
