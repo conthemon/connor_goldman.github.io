@@ -2,7 +2,7 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
-  href: index (1).html
+  href: index.html
   right:
     - text: "About Me"
       href: about.html
